@@ -1,0 +1,16 @@
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.exe
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.deps.json
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.runtimeconfig.json
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.runtimeconfig.dev.json
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.dll
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\bin\Debug\net5.0\HayvanlarAlemi.pdb
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.csproj.AssemblyReference.cache
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.AssemblyInfoInputs.cache
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.AssemblyInfo.cs
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.csproj.CoreCompileInputs.cache
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.dll
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\refint\HayvanlarAlemi.dll
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.pdb
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\HayvanlarAlemi.genruntimeconfig.cache
+D:\C# Dosyaları\HayvanlarAlemi\HayvanlarAlemi\obj\Debug\net5.0\ref\HayvanlarAlemi.dll
